@@ -1,4 +1,4 @@
-# stackhawk configuration for vuln_node_express
+# stackhawk configuration for vuln_node_express (update)
 app:
   # An applicationId obtained from the StackHawk platform.
   applicationId: 8bdd2466-59d1-4256-a198-024457561fac # (required)
